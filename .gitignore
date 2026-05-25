@@ -27,4 +27,4 @@ build/*
 build/**
 node_modules/**
 npm-debug.log
-
+*.png
